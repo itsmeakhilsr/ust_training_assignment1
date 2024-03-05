@@ -1,5 +1,5 @@
 def fun(a):
-    b=100/a 
+    b=10/a 
     return a 
 
-print(fun(30))
+print(fun(0))
