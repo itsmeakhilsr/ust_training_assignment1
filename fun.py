@@ -2,4 +2,4 @@ def fun(a):
     b=100/a 
     return a 
 
-print(fun(25))
+print(fun(20))
